@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://www.shutterstock.com/image-vector/ecommerce-website-banner-template-presents-260nw-2252124451.jpg')",
+            "url('https://img.freepik.com/premium-photo/3d-render-smartphone-shopping-cart-isolated-blue-background-banner_387680-873.jpg')",
         },
       },
     },
